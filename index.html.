@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home</title>
+</head>
+<body>
+   <h1>Welcome to my websites</h1>
+   <p>This is the homepage.</p>
+   <a href="about.html">About</a>
+   <a href="contact.html">Contact</a>
+</body>
+</html>
