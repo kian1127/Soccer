@@ -1,3 +1,42 @@
 body {
-  background-color:
-    }
+    background-color: cadetblue;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+h2 {
+   font-size: 40px; 
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.Messi {
+    width: 430px;
+    float: right;
+}
+
+.Ronaldo {
+    width: 430px;
+    float: right;
+}
+
+.Maradona {
+    width: 430px;
+    float: right;
+}
+
+.Pele {
+    width: 430px;
+    float: right;
+}
