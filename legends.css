@@ -39,4 +39,8 @@ h3 {
 .Pele {
     width: 430px;
     float: right;
+} 
+
+.container {
+    flex-direction: column-reverse;
 }
