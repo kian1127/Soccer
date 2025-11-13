@@ -24,6 +24,10 @@ h3 {
 
 
 .container {
-     height: 350px;
-     width: 350px;
+     height: 275px;
+     width: 450px;
 }
+
+li {
+    font-size: 18px;
+ }
