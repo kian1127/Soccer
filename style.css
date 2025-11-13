@@ -29,3 +29,7 @@ p {
 .container > img{
     width: 300px;
 }
+
+body {
+    background-color: rgb(130, 168, 66);
+}
