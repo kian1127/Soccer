@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(130, 168, 66);
+}
+
+.heading {
+font-family: fantasy;
+font-size: 60px;
+text-align: center;
+}
+
+.history-of-soccer {
+    font-size: 40px;
+}
+
+p {
+ font-size: 20px;
+}
+
+.history {
+    width: 430px;
+    float: right;
+
+}
+
+.important-events {
+    font-size: 40px;
+} 
+
+.international-tournaments {
+   font-size: 25px;
+}
+
+.container > img{
+    width: 300px;
+}
+
+
+.stack-sans-text-<uniquifier> {
+  font-family: "Stack Sans Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
